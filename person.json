@@ -1,0 +1,9 @@
+{
+    "firstname":"yang",
+    "gender":"true",
+    "height":180,
+    "email":"yang@gmail.com",
+    "city":{"通訊":"Taipei","戶籍":"New Taipei"},
+    "phone":"0912-345678",
+    "cars":["BMW","NISSAN","AUDI"]
+}
